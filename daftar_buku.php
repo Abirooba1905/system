@@ -40,7 +40,7 @@ $conn->close();
     <style>
        body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #120136, #270060);
+    background: #f2a8ff;
     color: #f0eaff;
     margin: 0;
     display: flex;

@@ -24,7 +24,7 @@ if (!isset($_SESSION['username'])) {
 
     body {
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        background: linear-gradient(135deg, #1e1e2f, #4b0082);
+        background: #f2a8ff;
         color: #fff;
         display: flex;
         justify-content: center;
