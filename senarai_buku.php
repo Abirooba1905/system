@@ -13,7 +13,7 @@
     }
 
     body {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-family: Arial, sans-serif;
         background: linear-gradient(135deg, #1e1e2f, #4b0082);
         color: #ececec;
         display: flex;
