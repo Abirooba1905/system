@@ -162,16 +162,17 @@
     }
     ?>
 
-    <div class="payment-methods">
-        <h2>Kaedah Pembayaran</h2>
-        <img src="image 1.jpg" alt="TNG">
-        <p>Touch n' Go</p>
-    </div>
+   <div class="payment-methods">
+    <h2>Kaedah Pembayaran</h2>
+    <img src="images/image_1.jpg" alt="TNG">
+    <p>Touch n' Go</p>
+     </div>
+
 
     <button class="btn-pay" onclick="showDialog()">Bayar Sekarang</button>
 </div>
 
-<!-- Dialog Box -->
+
 <div class="dialog-overlay" id="dialogOverlay">
     <div class="dialog-box">
         <h3>Bayaran anda telah berjaya!</h3>
