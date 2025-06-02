@@ -35,7 +35,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 /* Universal styles */
 body {
     font-family: 'Roboto', sans-serif;
-    background-color: #1c1b1e;
+    background-color:#f2a8ff;
     display: flex;
     justify-content: center;
     align-items: center;
